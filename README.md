@@ -123,7 +123,7 @@ And selecting the font would update the font label text.
 </figure>
 
 ## Source
-Source code for the demo application is hosted on GitHub in [blog-code-samples](https://github.com/kashifsoofi/blog-code-samples/tree/main/gtk4-dotnet8-font-dialog) repository.
+Source code for the demo application is hosted on GitHub in [gtk4-dotnet8-font-dialog](https://github.com/kashif-code-samples/gtk4-dotnet8-font-dialog) repository.
 
 ## References
 In no particular order
